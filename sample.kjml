@@ -15,3 +15,5 @@ string2 means "string1 string2", however, string1
 
 string2 means "string1
 string2" got it? Amazing!
+
+{sub_系统称呼}用{sub_武器}劈中了{obj_系统称呼}，造成了{dmg}点伤害。{obj_系统称呼}差点跌倒。
